@@ -13,3 +13,6 @@ __pycache__/
 
 #Testing
 .pytest_cache/
+
+#Private
+project_summary.md
